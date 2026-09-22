@@ -1,0 +1,1 @@
+{"name":"shriram-pratishthan-smart-mandal-2027","version":"1.0.0","private":true,"dependencies":{"@supabase/supabase-js":"^2.57.0","express":"^5.1.0","@vercel/node":"latest"}}
